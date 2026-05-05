@@ -1,0 +1,1 @@
+This project is a modern and responsive fashion brand landing page built using HTML, CSS, and JavaScript. It showcases a grand opening advertisement for a clothing and costume brand, including stylish UI design, product highlights, location details, and a contact form. The website is designed to be visually attractive and suitable for real-world fashion marketing.
